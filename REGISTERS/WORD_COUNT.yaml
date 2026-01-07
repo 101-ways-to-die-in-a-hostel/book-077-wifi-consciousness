@@ -1,0 +1,101 @@
+# Word Count Register
+# Updated automatically by Writer Agent
+
+book:
+  number: "077"
+  slug: "wifi-consciousness"
+  target: 250000
+
+daily_log: []
+  # - date: "2026-01-06"
+  #   words_written: 5200
+  #   chapter: 1
+  #   cumulative: 5200
+
+weekly_summary: []
+  # - week: 1
+  #   start_date: "2026-01-06"
+  #   words_written: 35000
+  #   chapters_completed: 7
+  #   cumulative: 35000
+
+chapter_breakdown:
+  - chapter: 1
+    word_count: 4174
+    status: "complete"
+  - chapter: 2
+    word_count: 4079
+    status: "complete"
+  - chapter: 3
+    word_count: 4058
+    status: "complete"
+  - chapter: 4
+    word_count: 5069
+    status: "complete"
+  - chapter: 5
+    word_count: 4625
+    status: "complete"
+  - chapter: 6
+    word_count: 4036
+    status: "complete"
+  - chapter: 7
+    word_count: 4055
+    status: "complete"
+  - chapter: 8
+    word_count: 4540
+    status: "complete"
+  - chapter: 9
+    word_count: 4257
+    status: "complete"
+  - chapter: 10
+    word_count: 4111
+    status: "complete"
+  - chapter: 11
+    word_count: 4102
+    status: "complete"
+  - chapter: 12
+    word_count: 4054
+    status: "complete"
+  - chapter: 13
+    word_count: 5048
+    status: "complete"
+  - chapter: 14
+    word_count: 4029
+    status: "complete"
+  - chapter: 15
+    word_count: 5135
+    status: "complete"
+  - chapter: 16
+    word_count: 4729
+    status: "complete"
+  - chapter: 17
+    word_count: 4600
+    status: "complete"
+  - chapter: 18
+    word_count: 4099
+    status: "complete"
+  - chapter: 19
+    word_count: 4080
+    status: "complete"
+  - chapter: 20
+    word_count: 5263
+    status: "complete"
+  - chapter: 21
+    word_count: 5990
+    status: "complete"
+  - chapter: 22
+    word_count: 4331
+    status: "complete"
+  # ... chapters 2-50 follow same pattern
+
+totals:
+  current: 98464
+  target: 250000
+  remaining: 151536
+  percentage: 39.39
+
+pace:
+  average_per_chapter: 4476
+  estimated_completion: "TBD"
+
+last_updated: "2026-01-06"

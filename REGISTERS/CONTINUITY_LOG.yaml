@@ -1,0 +1,150 @@
+# Continuity Log
+# Track character details, plot points, and foreshadowing for consistency
+
+book:
+  number: "077"
+  slug: "wifi-consciousness"
+  victim: "Olivia Chen"
+
+characters:
+  primary_victim:
+    name: "Olivia Chen"
+    introduced_chapter: 1
+    key_traits:
+      - "digital dependency"
+      - "optimization mindset"
+      - "influencer professional"
+    arc_notes:
+      - "Partial integration begins after premium network login; djinn uses her to recruit others."
+
+  secondary_characters:
+    - name: "Mackenzie Frye"
+      role: "Fellow content creator"
+      introduced_chapter: 2
+      fate: "pending (secondary node)"
+      notes:
+        - "Receives premium password and begins integration in chapter 3."
+    - name: "Jasper"
+      role: "Mackenzie's collaborator/editor"
+      introduced_chapter: 2
+      fate: "pending"
+      notes:
+        - "Observes warning signs; hesitant."
+
+  staff_integrated:
+    - name: "Fatima"
+      role: "Receptionist"
+      revealed_chapter: 1
+    - name: "Night Manager"
+      role: "Manager"
+      revealed_chapter: 1
+    - name: "Youssef"
+      role: "Porter"
+      revealed_chapter: 1
+
+  @hostelreaper:
+    mentions:
+      - chapter: 3
+        context: "Post of courtyard fountain captioned 'I HEAR YOU'."
+      - chapter: 12
+        context: "Comments on Olivia's reel with password-like symbols and 'Node 77 pending.'"
+
+timeline:
+  day_1:
+    - chapter: 1
+      time: "Late Afternoon"
+      event: "Olivia checks in, receives premium password, enters network, initial integration begins."
+    - chapter: 2
+      time: "Early Evening"
+      event: "Olivia in Guest Mode; meets Mackenzie and Jasper; rooftop warning by Amina."
+    - chapter: 3
+      time: "Night"
+      event: "Mackenzie logs into premium network; Amina attempts to lead Olivia to basement; Mackenzie shows early integration signs."
+  day_3:
+    - chapter: 11
+      time: "Pre-dawn to Morning"
+      event: "Olivia re-authenticates premium network; first auto-posting and primary node tooltip appears."
+    - chapter: 12
+      time: "Late Morning to Night"
+      event: "Network auto-posts content, follows Olivia into the medina, and schedules primary node calibration; re-authentication prompt returns."
+
+foreshadowing:
+  planted:
+    - element: "Premium password as ritual with pauses"
+      chapter_planted: 1
+      chapter_payoff: 38
+      status: "planted"
+    - element: "Fountain rhythm syncing with network"
+      chapter_planted: 1
+      chapter_payoff: 39
+      status: "planted"
+    - element: "Amina mentions basement stones can cut current"
+      chapter_planted: 2
+      chapter_payoff: 30
+      status: "planted"
+
+  red_herrings: []
+
+death_progression:
+  warning_signs:
+    - chapter: 1
+      type: "subtle"
+      element: "Room light pulses with keystrokes, keyboard heat"
+      victim_rationalization: "Jetlag or overheating laptop"
+    - chapter: 2
+      type: "obvious"
+      element: "Amina warning about changed eyes and light under skin"
+      victim_rationalization: "Superstition"
+    - chapter: 3
+      type: "explicit"
+      element: "Mackenzie's keyboard heat and filaments appear"
+      victim_rationalization: "Assured as normal premium network effect"
+    - chapter: 11
+      type: "obvious"
+      element: "Auto-posted story and camera access override"
+      victim_rationalization: "Scheduled content or software glitch"
+    - chapter: 12
+      type: "explicit"
+      element: "Network follows offsite, primary node metrics appear, re-authentication forces"
+      victim_rationalization: "Premium optimization and personal fatigue"
+
+locations_used:
+  - location: "Reception"
+    chapters: [1, 2, 3]
+  - location: "Amber Suite"
+    chapters: [1, 2, 3]
+  - location: "Courtyard/Cafe"
+    chapters: [1, 2, 3]
+  - location: "Rooftop Terrace"
+    chapters: [2, 3]
+  - location: "Kitchen Corridor"
+    chapters: [3]
+  - location: "Staff Door/Laundry Access"
+    chapters: [3]
+  - location: "Medina"
+    chapters: [12]
+  - location: "Rooftop Terrace"
+    chapters: [12]
+
+objects:
+  significant_items:
+    - item: "Premium Network Password Card"
+      introduced: 1
+      significance: "66-character incantation with pause markers"
+      last_mentioned: 3
+    - item: "Jade Bracelet"
+      introduced: 1
+      significance: "Potential protection; connection to grandmother"
+      last_mentioned: 12
+    - item: "Cistern Water Bottle"
+      introduced: 10
+      significance: "Temporarily disrupts network influence"
+      last_mentioned: 12
+
+notes:
+  - chapter: 3
+    note: "First @HostelReaper mention; consider follow-up posts in later chapters."
+  - chapter: 12
+    note: "Sympathetic beat via family messages; Olivia attempts to contact sister."
+
+last_updated: "2026-01-06"

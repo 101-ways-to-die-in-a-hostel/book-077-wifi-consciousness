@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A digital nomad's consciousness is uploaded to a hostel's cursed Wi-Fi network after entering a 66-character password that serves as an ancient summoning incantation for a djinn bound within the electromagnetic waves.",
     "long": ""
   },
   "death_type": "Wifi Consciousness",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "The password is the key, but the user is the door."
 }
